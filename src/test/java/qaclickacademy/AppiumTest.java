@@ -12,5 +12,7 @@ public class AppiumTest {
 	public void IOSApp()
 	{
 		System.out.println("IOSApp");
+		System.out.println("AppleApp");
+		System.out.println("MACpp");
 	}
 }
