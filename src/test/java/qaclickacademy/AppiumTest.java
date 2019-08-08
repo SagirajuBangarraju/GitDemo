@@ -5,6 +5,10 @@ public class AppiumTest {
 	public void NativeAppAndroid()
 	{
 		System.out.println("NativeAppAndroid");
+		System.out.println("PositiveAppAndroid");
+		System.out.println("NutralAppAndroid");
+		System.out.println("HTCAppAndroid");
+		System.out.println("NokiaAppAndroid");
 	}
 	@Test
 	public void IOSApp()
